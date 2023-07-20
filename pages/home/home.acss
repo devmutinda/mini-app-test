@@ -1,0 +1,20 @@
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--blue);
+  color: var(--white);
+  height: 112rpx;
+  width: 624rpx;
+  border-radius: 56rpx;
+}
+
+.items {
+  width: 600rpx;
+  box-shadow: 0px 15px 30px 0px rgba(0, 0, 0, 0.15);
+  height: 100rpx;
+  display: flex;
+  align-items: center;
+  padding: 20rpx;
+}

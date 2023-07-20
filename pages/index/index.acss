@@ -1,0 +1,8 @@
+page {
+  background-color: var(--blue);
+  display: flex;
+  color: var(--white);
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}

@@ -1,0 +1,11 @@
+{
+  "subPackageBuildType": "shared",
+  "pages": [
+    "pages/index/index",
+    "pages/home/home",
+    "pages/other/other"
+  ],
+  "window": {
+    "defaultTitle": ""
+  }
+}

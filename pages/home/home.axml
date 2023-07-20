@@ -1,0 +1,6 @@
+<view>{{message}}</view>
+<view style="display:flex; flex-direction:column; gap: 20rpx;">
+  <view class="items" a:for="{{ list }}" a:for-item="word" a:for-index="idx" id="{{idx}}" onTap="itemTapped">{{idx}}: {{word.name}}</view>
+</view>
+
+<view class="button" onTap="handleTap" id="home">Click me!</view>

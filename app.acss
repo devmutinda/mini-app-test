@@ -1,0 +1,14 @@
+page {
+  /* flex: 1; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 90rpx;
+  /* padding: 90rpx; */
+}
+:root {
+  --blue: #1074FF;
+  --white: white;
+}
